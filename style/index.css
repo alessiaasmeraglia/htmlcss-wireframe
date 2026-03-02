@@ -4,15 +4,24 @@
 }
 
 body {
-    
+    width: 512px;              
+    border: 2px;  
+    margin: 0 auto;            
+    font-family: Georgia, serif;
+    background: white;
 }
 
 /* Header */
 .site-header {
+    padding: 12px 16px;
+    border-bottom: 2px solid #000;
 
 }
 
 .site-header h1 {
+    margin: 0;
+    font-size: 44px;
+    font-weight: 700;
 
 }
 
@@ -23,6 +32,14 @@ body {
 
 /* Card */
 .card {
+
+}
+
+.card h2 {
+
+}
+
+.card p {
 
 }
 
