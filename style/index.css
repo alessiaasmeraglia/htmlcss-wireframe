@@ -27,19 +27,30 @@ body {
 
 /* Contenuto */
 .container {
+    padding: 16px;
 
 }
 
 /* Card */
 .card {
+    border: 2px solid #000;
+    padding: 16px;
+    margin-bottom: 18px;
+    min-height: 150px;
 
 }
 
 .card h2 {
+    margin: 0 0 8px 0;
+    font-size: 28px;
+    font-weight: 700;
 
 }
 
 .card p {
+    margin: 0;
+    line-height: 1.25;
+    font-size: 16px;
 
 }
 
