@@ -56,5 +56,6 @@ body {
 
 /* Footer */
 .site-footer {
-    
+    border-top: 2px solid #000;
+    padding: 12px 16px;
 }
